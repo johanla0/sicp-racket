@@ -1,5 +1,6 @@
 # Sicp Racket
 [![Racket CI](https://github.com/johanla0/sicp-racket/workflows/Racket%20CI/badge.svg)](https://github.com/johanla0/sicp-racket/actions)
+
 Get your boilerplate here: https://github.com/hexlet-boilerplates/sicp-racket
 
 ### Requirements
